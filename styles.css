@@ -18,6 +18,11 @@ h1 {
     font-size: 65px;
 }
 
+#title {
+    color: white;
+    text-decoration: none;
+}
+
 .nav-bar {
     text-align-last: center;
 }
