@@ -1,10 +1,10 @@
 * {
-    /* background-color: #a2bda6; */
     background-color: #738965;
 }
 
 .profile-pic {
     border-radius: 40px;
+    border: solid 2px #355e4b;
     height: 200px;
     width: 200px;
     object-fit: cover;
@@ -25,7 +25,8 @@ h1 {
 .links {
     color: whitesmoke;
     padding: 10px;
-    border: solid #a0ae97;;
+    border: solid #a0ae97;
+    /* hover to be:     background-color: #355e4b; */
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: none;
 }
@@ -35,6 +36,6 @@ p {
     color: whitesmoke;
 }
 
-.about-annapham {
-    /* background-color: #738965; */
-}
+/* .about {
+    /* background-color: #738965; 
+} */
