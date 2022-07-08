@@ -27,9 +27,14 @@ h1 {
     padding: 10px;
     border: solid #a0ae97;;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
 }
 
 p {
     text-align: center;
     color: whitesmoke;
+}
+
+.about-annapham {
+    /* background-color: #738965; */
 }
